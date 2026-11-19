@@ -221,3 +221,12 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# DeepLense data and training outputs (too large for git; link or upload weights separately)
+data/
+*.zip
+*.npy
+*.npz
+*.pt
+*.pth
+*.ckpt
